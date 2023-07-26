@@ -8,7 +8,6 @@ The client provided KPMG with 3 datasets:
 Customer Demographic
 Customer Addresses
 Transactions data
-You can check the Dataset Here
 
 Problem Statement
 Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation.
@@ -23,7 +22,7 @@ Data Insights and Presentation
 Data Quality Assessment
 "the importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance we will be able to use it drive company growth."
 
-Task - Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
+Task 1 - Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
 
 
 Data Insights
@@ -31,12 +30,12 @@ Using the existing 3 datasets (Customer demographic, customer address and transa
 
 In building this recommendation, I need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration, Model Development and Interpretation.
 
-Task - Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
+Task 2 - Prepare a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
 
 
 Data Insights and Presentation
-Task - Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard.
+Task 3 - Develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard.
 
 Important questions to keep in mind the business context when presenting your findings:
 
